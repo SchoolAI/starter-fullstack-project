@@ -1,3 +1,4 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # AI Q&A App - Fullstack Coding Challenge
 
 ## Overview
